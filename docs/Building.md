@@ -100,3 +100,4 @@ Building TEA from the command line
   3. Copy the built executable to a device:
 
       $ ./tools/push-and-run-debug
+Terminal Emulator for Android
